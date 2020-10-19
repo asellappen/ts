@@ -4,7 +4,7 @@ arch:
   - amd64
 
 go:
-  - 1.1
+  - 1.5
   - 1.2
   - tip
 jobs:
